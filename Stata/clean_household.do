@@ -40,4 +40,3 @@ save "..\data\cleanStata_household_data.dta", replace
 
 
 
-*phuong test
